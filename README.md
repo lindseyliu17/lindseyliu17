@@ -7,7 +7,7 @@ PhD student in Measurement, Evaluation, and Statistics at Teachers College, Colu
 - **Time-varying treatments and confounding:** longitudinal TMLE, g-methods, sequential positivity diagnostics
 - **Selection bias in observational studies:** propensity scores, doubly robust estimation (AIPW, TMLE), random forests, within-study comparisons against experimental benchmarks
 - **Missing data and attrition:** multiple imputation (MICE), inverse probability weighting, FIML, sensitivity analysis for missingness assumptions
-- **Measurement and latent variables:** structural equation modeling, exploratory and confirmatory factor analysis, survey and assessment development
+- **Measurement and latent variables:** structural equation modeling, exploratory and confirmatory factor analysis, survey development
 - **Multilevel and longitudinal data:** linear mixed-effects and multilevel models
 - **Program evaluation:** randomized and quasi-experimental designs, interrupted time series, cost-effectiveness analysis (ingredients method)
 - **Text as data:** NLP and sentence-level sentiment analysis
