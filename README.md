@@ -14,6 +14,11 @@ PhD student in Measurement, Evaluation, and Statistics at Teachers College, Colu
 
 **Tools:** R, Python, Stata, SQL; Quarto and Git for reproducible workflows
 
+**Projects**
+
+- [Recovering cluster structure under missing data](https://github.com/lindseyliu17/cluster-recovery-missing-data): a simulation study in R of how proximity measures and missing-data handling affect cluster recovery
+- [Multivariate differences in entrepreneurial profiles](https://github.com/lindseyliu17/entrepreneurial-profiles-manova): MANOVA and descriptive LDA in R using an open survey dataset
+
 **Selected work**
 
 - Keller, B., Liu, L., & Huan, Y. (in press). *Estimating effects of time-varying special education regimes using targeted maximum likelihood estimation.* [Preprint](https://osf.io/preprints/psyarxiv/fs7tw_v2)
